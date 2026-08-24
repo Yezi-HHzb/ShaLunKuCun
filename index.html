@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>库存查询</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f7fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 16px;
+            box-sizing: border-box;
+        }
+        .card {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            padding: 24px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+        .part-no {
+            font-size: 28px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+        }
+        .stock {
+            font-size: 48px;
+            font-weight: bold;
+            color: #2e7d32;
+            margin: 16px 0;
+        }
+        .label {
+            font-size: 14px;
+            color: #888;
+            margin-bottom: 4px;
+        }
+        .error {
+            color: #d32f2f;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="label">品号</div>
+        <div class="part-no" id="partNo">--</div>
+        <div class="label">当前库存</div>
+        <div class="stock" id="stock">--</div>
+        <div id="error" class="error" style="display:none;">未找到该品号的库存信息</div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const partNo = params.get('partNo') || '';
+        if (partNo) {
+            fetch('data.json')
+                .then(res => res.json())
+                .then(data => {
+                    const item = data.find(d => d.partNo === partNo);
+                    if (item) {
+                        document.getElementById('partNo').textContent = item.partNo;
+                        document.getElementById('stock').textContent = item.stock;
+                    } else {
+                        document.getElementById('partNo').textContent = partNo;
+                        document.getElementById('stock').style.display = 'none';
+                        document.getElementById('error').textContent = '未找到该品号的库存信息';
+                        document.getElementById('error').style.display = 'block';
+                    }
+                })
+                .catch(err => {
+                    document.getElementById('error').textContent = '数据加载失败，请稍后重试';
+                    document.getElementById('error').style.display = 'block';
+                });
+        } else {
+            document.getElementById('partNo').textContent = '未知品号';
+            document.getElementById('stock').style.display = 'none';
+            document.getElementById('error').textContent = '链接缺少品号参数';
+            document.getElementById('error').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
