@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "partNo": "{'text': '221', 'type': 'text'}",
+    "stock": ""
+  },
+  {
+    "partNo": "{'text': '222', 'type': 'text'}",
+    "stock": ""
+  },
+  {
+    "partNo": "{'text': '223', 'type': 'text'}",
+    "stock": ""
+  },
+  {
+    "partNo": "{'text': '224', 'type': 'text'}",
+    "stock": ""
+  },
+  {
+    "partNo": "{'text': '225', 'type': 'text'}",
+    "stock": ""
+  }
+]
