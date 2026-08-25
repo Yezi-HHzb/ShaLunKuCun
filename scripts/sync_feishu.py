@@ -38,10 +38,19 @@ def fetch_all_records(token):
     return all_records
 
 def extract_value(raw):
-    """从飞书返回的字段值中提取纯文本或数字"""
+    """从飞书返回的字段值中提取完整文本，处理多段/多行情况"""
+    # 如果是列表（可能包含多个文本段落或对象）
     if isinstance(raw, list):
-        raw = raw[0] if raw else ""
+        parts = []
+        for item in raw:
+            part = extract_value(item)
+            if part:
+                parts.append(part)
+        # 用空格连接所有段落，避免换行符影响文件名
+        return ' '.join(parts)
+    # 如果是字典
     if isinstance(raw, dict):
+        # 优先提取 text 字段
         if "text" in raw:
             return str(raw["text"]).strip()
         elif "number" in raw:
@@ -50,6 +59,7 @@ def extract_value(raw):
             return str(raw["value"]).strip()
         else:
             return ""
+    # 如果是字符串或数字
     else:
         return str(raw).strip() if raw is not None else ""
 
