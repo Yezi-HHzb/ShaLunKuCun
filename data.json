@@ -17,7 +17,7 @@
     "linkedStock": "",
     "totalStock": "11",
     "backupStock": "6",
-    "process": "30B新造外圈粗磨外径"
+    "process": "30B新造外圈粗磨外径 30B大修外圈磨外径 26大修外圈磨外径"
   },
   {
     "partNo": "411990320",
@@ -117,7 +117,7 @@
     "linkedStock": "",
     "totalStock": "72",
     "backupStock": "80",
-    "process": "30B大修终磨两滚道"
+    "process": "30B大修终磨两滚道 26大修终磨两滚道"
   },
   {
     "partNo": "411990226",
@@ -127,7 +127,7 @@
     "linkedStock": "",
     "totalStock": "48",
     "backupStock": "",
-    "process": "30B大修内圈磨挡边"
+    "process": "30B大修内圈磨挡边 26大修内圈磨挡边"
   },
   {
     "partNo": "411990208",
@@ -237,7 +237,7 @@
     "linkedStock": "",
     "totalStock": "130",
     "backupStock": "150",
-    "process": "30B新造外圈粗、细磨两滚道"
+    "process": "30B新造外圈粗、细磨两滚道 30B大修外圈细磨两滚道 26大修外圈细磨两滚道"
   },
   {
     "partNo": "411990235",
@@ -247,7 +247,7 @@
     "linkedStock": "",
     "totalStock": "50",
     "backupStock": "50",
-    "process": "新造353130B 滚柱磨加工"
+    "process": "新造353130B 滚柱磨加工 1.粗磨球基面"
   },
   {
     "partNo": "411990130",
@@ -257,7 +257,7 @@
     "linkedStock": "",
     "totalStock": "100",
     "backupStock": "50",
-    "process": "大修353130B 滚柱磨加工"
+    "process": "大修353130B 滚柱磨加工 1.磨球基面"
   },
   {
     "partNo": "411990227",
@@ -267,7 +267,7 @@
     "linkedStock": "",
     "totalStock": "100",
     "backupStock": "50",
-    "process": "大修353130B 滚柱磨加工"
+    "process": "大修353130B 滚柱磨加工 1.磨球基面"
   },
   {
     "partNo": "411020080",
@@ -277,7 +277,7 @@
     "linkedStock": "",
     "totalStock": "2",
     "backupStock": "5",
-    "process": "新造353130B 滚柱磨加工"
+    "process": "新造353130B 滚柱磨加工 1.粗磨外径1 2.粗磨外径2 3.细磨外径1 4.细磨外径2"
   },
   {
     "partNo": "411990306",
@@ -297,7 +297,7 @@
     "linkedStock": "",
     "totalStock": "60",
     "backupStock": "60",
-    "process": "新造353130B 滚柱磨加工"
+    "process": "新造353130B 滚柱磨加工 1.终磨球基面 大修353130B 滚柱磨加工 1.磨球基面"
   },
   {
     "partNo": "411990069",
@@ -317,7 +317,7 @@
     "linkedStock": "",
     "totalStock": "7",
     "backupStock": "",
-    "process": "30B新造外圈粗、终磨双端面"
+    "process": "30B新造外圈粗、终磨双端面 30B大修外圈磨双端面 26大修外圈磨双端面"
   },
   {
     "partNo": "411990327",
@@ -1137,7 +1137,7 @@
     "linkedStock": "",
     "totalStock": "0",
     "backupStock": "",
-    "process": "新造353130B 滚柱磨加工"
+    "process": "新造353130B 滚柱磨加工 1.终磨球基面 压轮 大修353130B 滚柱磨加工 1.磨球基面"
   },
   {
     "partNo": "411990312",
