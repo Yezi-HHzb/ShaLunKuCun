@@ -1,22 +1,22 @@
 [
   {
-    "partNo": "{'text': '221', 'type': 'text'}",
-    "stock": "{'text': '55', 'type': 'text'}"
+    "partNo": "221",
+    "stock": "55"
   },
   {
-    "partNo": "{'text': '222', 'type': 'text'}",
-    "stock": "{'text': '66', 'type': 'text'}"
+    "partNo": "222",
+    "stock": "66"
   },
   {
-    "partNo": "{'text': '223', 'type': 'text'}",
-    "stock": "{'text': '77', 'type': 'text'}"
+    "partNo": "223",
+    "stock": "77"
   },
   {
-    "partNo": "{'text': '224', 'type': 'text'}",
-    "stock": "{'text': '88', 'type': 'text'}"
+    "partNo": "224",
+    "stock": "88"
   },
   {
-    "partNo": "{'text': '225', 'type': 'text'}",
-    "stock": "{'text': '99', 'type': 'text'}"
+    "partNo": "225",
+    "stock": "99"
   }
 ]
