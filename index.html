@@ -90,7 +90,8 @@
                 { label: '库存', value: item.stock || '0', stock: true },
                 { label: '联库', value: item.linkedStock || '0' },
                 { label: '总库', value: item.totalStock || '0' },
-                { label: '备货', value: item.backupStock || '0' }
+                { label: '备货', value: item.backupStock || '0' },
+                { label: '工序', value: item.process || '-' }   // 新增工序显示
             ];
 
             let html = '';
