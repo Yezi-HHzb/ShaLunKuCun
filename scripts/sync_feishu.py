@@ -39,10 +39,8 @@ def fetch_all_records(token):
 
 def extract_value(raw):
     """从飞书返回的字段值中提取纯文本或数字"""
-    # 如果是列表（例如多选、附件等），取第一个元素
     if isinstance(raw, list):
         raw = raw[0] if raw else ""
-    # 如果是字典，尝试提取常见键
     if isinstance(raw, dict):
         if "text" in raw:
             return str(raw["text"]).strip()
@@ -61,7 +59,7 @@ def parse_records(records):
         fields = rec.get("fields", {})
         # 提取所有需要的字段
         part_no = extract_value(fields.get("厂料号", ""))
-        # 如果“厂料号”为空，尝试旧的“品号”字段（兼容旧数据）
+        # 兼容旧字段“品号”
         if not part_no:
             part_no = extract_value(fields.get("品号", ""))
 
@@ -71,8 +69,8 @@ def parse_records(records):
         linked_stock = extract_value(fields.get("联库", ""))
         total_stock = extract_value(fields.get("总库", ""))
         backup_stock = extract_value(fields.get("备货", ""))
+        process = extract_value(fields.get("工序", ""))  # 新增工序字段
 
-        # 厂料号必须有值，否则跳过
         if part_no:
             result.append({
                 "partNo": part_no,
@@ -81,7 +79,8 @@ def parse_records(records):
                 "stock": stock,
                 "linkedStock": linked_stock,
                 "totalStock": total_stock,
-                "backupStock": backup_stock
+                "backupStock": backup_stock,
+                "process": process  # 新增
             })
     return result
 
