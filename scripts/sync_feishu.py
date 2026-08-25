@@ -41,16 +41,34 @@ def parse_records(records):
     result = []
     for rec in records:
         fields = rec.get("fields", {})
-        part_no = fields.get("品号", "")
-        stock = fields.get("库存", "")
-        # 飞书可能返回列表，取第一个元素
-        if isinstance(part_no, list):
-            part_no = part_no[0] if part_no else ""
-        if isinstance(stock, list):
-            stock = stock[0] if stock else ""
-        part_no = str(part_no).strip()
-        stock = str(stock).strip()
-        if part_no:
+        # 获取“品号”字段的原始值
+        part_no_raw = fields.get("品号", "")
+        stock_raw = fields.get("库存", "")
+
+        # 辅助函数：提取实际值
+        def extract_value(raw):
+            # 如果值是列表（多选或附件等），取第一个元素
+            if isinstance(raw, list):
+                raw = raw[0] if raw else ""
+            # 如果值是字典，尝试提取 text 或 number 字段
+            if isinstance(raw, dict):
+                if "text" in raw:
+                    return str(raw["text"]).strip()
+                elif "number" in raw:
+                    return str(raw["number"]).strip()
+                elif "value" in raw:
+                    return str(raw["value"]).strip()
+                else:
+                    # 如果都不存在，返回空字符串
+                    return ""
+            else:
+                # 已经是字符串或数字
+                return str(raw).strip() if raw is not None else ""
+
+        part_no = extract_value(part_no_raw)
+        stock = extract_value(stock_raw)
+
+        if part_no:  # 只添加品号非空的记录
             result.append({"partNo": part_no, "stock": stock})
     return result
 
