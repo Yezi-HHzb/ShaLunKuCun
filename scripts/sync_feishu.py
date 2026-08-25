@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-# 从环境变量读取飞书凭证
+# 飞书应用凭证
 APP_ID = os.environ["FEISHU_APP_ID"]
 APP_SECRET = os.environ["FEISHU_APP_SECRET"]
 APP_TOKEN = os.environ["FEISHU_APP_TOKEN"]
@@ -37,46 +37,58 @@ def fetch_all_records(token):
             break
     return all_records
 
+def extract_value(raw):
+    """从飞书返回的字段值中提取纯文本或数字"""
+    # 如果是列表（例如多选、附件等），取第一个元素
+    if isinstance(raw, list):
+        raw = raw[0] if raw else ""
+    # 如果是字典，尝试提取常见键
+    if isinstance(raw, dict):
+        if "text" in raw:
+            return str(raw["text"]).strip()
+        elif "number" in raw:
+            return str(raw["number"]).strip()
+        elif "value" in raw:
+            return str(raw["value"]).strip()
+        else:
+            return ""
+    else:
+        return str(raw).strip() if raw is not None else ""
+
 def parse_records(records):
     result = []
     for rec in records:
         fields = rec.get("fields", {})
-        # 获取“品号”字段的原始值
-        part_no_raw = fields.get("品号", "")
-        stock_raw = fields.get("库存", "")
+        # 提取所有需要的字段
+        part_no = extract_value(fields.get("厂料号", ""))
+        # 如果“厂料号”为空，尝试旧的“品号”字段（兼容旧数据）
+        if not part_no:
+            part_no = extract_value(fields.get("品号", ""))
 
-        # 辅助函数：提取实际值
-        def extract_value(raw):
-            # 如果值是列表（多选或附件等），取第一个元素
-            if isinstance(raw, list):
-                raw = raw[0] if raw else ""
-            # 如果值是字典，尝试提取 text 或 number 字段
-            if isinstance(raw, dict):
-                if "text" in raw:
-                    return str(raw["text"]).strip()
-                elif "number" in raw:
-                    return str(raw["number"]).strip()
-                elif "value" in raw:
-                    return str(raw["value"]).strip()
-                else:
-                    # 如果都不存在，返回空字符串
-                    return ""
-            else:
-                # 已经是字符串或数字
-                return str(raw).strip() if raw is not None else ""
+        spec = extract_value(fields.get("规格型号", ""))
+        manufacturer = extract_value(fields.get("厂家", ""))
+        stock = extract_value(fields.get("库存", ""))
+        linked_stock = extract_value(fields.get("联库", ""))
+        total_stock = extract_value(fields.get("总库", ""))
+        backup_stock = extract_value(fields.get("备货", ""))
 
-        part_no = extract_value(part_no_raw)
-        stock = extract_value(stock_raw)
-
-        if part_no:  # 只添加品号非空的记录
-            result.append({"partNo": part_no, "stock": stock})
+        # 厂料号必须有值，否则跳过
+        if part_no:
+            result.append({
+                "partNo": part_no,
+                "spec": spec,
+                "manufacturer": manufacturer,
+                "stock": stock,
+                "linkedStock": linked_stock,
+                "totalStock": total_stock,
+                "backupStock": backup_stock
+            })
     return result
 
 def main():
     token = get_tenant_access_token()
     records = fetch_all_records(token)
     data = parse_records(records)
-    # 写入 data.json 到仓库根目录
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"成功同步 {len(data)} 条记录")
