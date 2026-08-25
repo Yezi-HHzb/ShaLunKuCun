@@ -6,7 +6,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990263",
@@ -15,7 +16,8 @@
     "stock": "11",
     "linkedStock": "",
     "totalStock": "11",
-    "backupStock": "6"
+    "backupStock": "6",
+    "process": ""
   },
   {
     "partNo": "411990320",
@@ -24,7 +26,8 @@
     "stock": "30",
     "linkedStock": "",
     "totalStock": "30",
-    "backupStock": ""
+    "backupStock": "",
+    "process": "新造30B内圈粗磨内径"
   },
   {
     "partNo": "411990277",
@@ -33,7 +36,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990297",
@@ -42,7 +46,8 @@
     "stock": "3",
     "linkedStock": "",
     "totalStock": "3",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990203",
@@ -51,7 +56,8 @@
     "stock": "14",
     "linkedStock": "",
     "totalStock": "14",
-    "backupStock": "12"
+    "backupStock": "12",
+    "process": ""
   },
   {
     "partNo": "411990203",
@@ -60,7 +66,8 @@
     "stock": "1",
     "linkedStock": "",
     "totalStock": "1",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990202",
@@ -69,7 +76,8 @@
     "stock": "36",
     "linkedStock": "",
     "totalStock": "36",
-    "backupStock": "30"
+    "backupStock": "30",
+    "process": ""
   },
   {
     "partNo": "411990236",
@@ -78,7 +86,8 @@
     "stock": "2",
     "linkedStock": "",
     "totalStock": "2",
-    "backupStock": "2"
+    "backupStock": "2",
+    "process": ""
   },
   {
     "partNo": "411990207",
@@ -87,7 +96,8 @@
     "stock": "3",
     "linkedStock": "",
     "totalStock": "3",
-    "backupStock": "4"
+    "backupStock": "4",
+    "process": ""
   },
   {
     "partNo": "411990207",
@@ -96,7 +106,8 @@
     "stock": "2",
     "linkedStock": "",
     "totalStock": "2",
-    "backupStock": "2"
+    "backupStock": "2",
+    "process": ""
   },
   {
     "partNo": "411990200",
@@ -105,7 +116,8 @@
     "stock": "72",
     "linkedStock": "",
     "totalStock": "72",
-    "backupStock": "80"
+    "backupStock": "80",
+    "process": ""
   },
   {
     "partNo": "411990226",
@@ -114,7 +126,8 @@
     "stock": "48",
     "linkedStock": "",
     "totalStock": "48",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990208",
@@ -123,7 +136,8 @@
     "stock": "0",
     "linkedStock": "1",
     "totalStock": "1",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990212",
@@ -132,7 +146,8 @@
     "stock": "1",
     "linkedStock": "",
     "totalStock": "1",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990212",
@@ -141,7 +156,8 @@
     "stock": "0",
     "linkedStock": "0",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990212",
@@ -150,7 +166,8 @@
     "stock": "0",
     "linkedStock": "2",
     "totalStock": "2",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990225",
@@ -159,7 +176,8 @@
     "stock": "158",
     "linkedStock": "",
     "totalStock": "158",
-    "backupStock": "120"
+    "backupStock": "120",
+    "process": ""
   },
   {
     "partNo": "411990230",
@@ -168,7 +186,8 @@
     "stock": "144",
     "linkedStock": "",
     "totalStock": "144",
-    "backupStock": "180"
+    "backupStock": "180",
+    "process": ""
   },
   {
     "partNo": "411050050",
@@ -177,7 +196,8 @@
     "stock": "132",
     "linkedStock": "",
     "totalStock": "132",
-    "backupStock": "120"
+    "backupStock": "120",
+    "process": ""
   },
   {
     "partNo": "411990231",
@@ -186,7 +206,8 @@
     "stock": "49",
     "linkedStock": "",
     "totalStock": "49",
-    "backupStock": "100"
+    "backupStock": "100",
+    "process": ""
   },
   {
     "partNo": "411050052",
@@ -195,7 +216,8 @@
     "stock": "8",
     "linkedStock": "",
     "totalStock": "8",
-    "backupStock": "14"
+    "backupStock": "14",
+    "process": ""
   },
   {
     "partNo": "411050019",
@@ -204,7 +226,8 @@
     "stock": "175",
     "linkedStock": "",
     "totalStock": "175",
-    "backupStock": "150"
+    "backupStock": "150",
+    "process": ""
   },
   {
     "partNo": "411050037",
@@ -213,7 +236,8 @@
     "stock": "130",
     "linkedStock": "",
     "totalStock": "130",
-    "backupStock": "150"
+    "backupStock": "150",
+    "process": ""
   },
   {
     "partNo": "411990235",
@@ -222,7 +246,8 @@
     "stock": "50",
     "linkedStock": "",
     "totalStock": "50",
-    "backupStock": "50"
+    "backupStock": "50",
+    "process": ""
   },
   {
     "partNo": "411990130",
@@ -231,7 +256,8 @@
     "stock": "100",
     "linkedStock": "",
     "totalStock": "100",
-    "backupStock": "50"
+    "backupStock": "50",
+    "process": ""
   },
   {
     "partNo": "411990227",
@@ -240,7 +266,8 @@
     "stock": "100",
     "linkedStock": "",
     "totalStock": "100",
-    "backupStock": "50"
+    "backupStock": "50",
+    "process": ""
   },
   {
     "partNo": "411020080",
@@ -249,7 +276,8 @@
     "stock": "2",
     "linkedStock": "",
     "totalStock": "2",
-    "backupStock": "5"
+    "backupStock": "5",
+    "process": ""
   },
   {
     "partNo": "411990306",
@@ -258,7 +286,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990307",
@@ -267,7 +296,8 @@
     "stock": "60",
     "linkedStock": "",
     "totalStock": "60",
-    "backupStock": "60"
+    "backupStock": "60",
+    "process": ""
   },
   {
     "partNo": "411990069",
@@ -276,7 +306,8 @@
     "stock": "0",
     "linkedStock": "4",
     "totalStock": "4",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990136",
@@ -285,7 +316,8 @@
     "stock": "7",
     "linkedStock": "",
     "totalStock": "7",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990327",
@@ -294,7 +326,8 @@
     "stock": "6",
     "linkedStock": "",
     "totalStock": "6",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010151",
@@ -303,7 +336,8 @@
     "stock": "4",
     "linkedStock": "",
     "totalStock": "4",
-    "backupStock": "3"
+    "backupStock": "3",
+    "process": ""
   },
   {
     "partNo": "411990084",
@@ -312,7 +346,8 @@
     "stock": "40",
     "linkedStock": "",
     "totalStock": "40",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990142",
@@ -321,7 +356,8 @@
     "stock": "10",
     "linkedStock": "",
     "totalStock": "10",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990140",
@@ -330,7 +366,8 @@
     "stock": "2",
     "linkedStock": "",
     "totalStock": "2",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990141",
@@ -339,7 +376,8 @@
     "stock": "0",
     "linkedStock": "11",
     "totalStock": "11",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990139",
@@ -348,7 +386,8 @@
     "stock": "42",
     "linkedStock": "",
     "totalStock": "42",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990259",
@@ -357,7 +396,8 @@
     "stock": "2",
     "linkedStock": "",
     "totalStock": "2",
-    "backupStock": "4"
+    "backupStock": "4",
+    "process": ""
   },
   {
     "partNo": "411990260",
@@ -366,7 +406,8 @@
     "stock": "4",
     "linkedStock": "",
     "totalStock": "4",
-    "backupStock": "4"
+    "backupStock": "4",
+    "process": ""
   },
   {
     "partNo": "411990298",
@@ -375,7 +416,8 @@
     "stock": "2",
     "linkedStock": "",
     "totalStock": "2",
-    "backupStock": "4"
+    "backupStock": "4",
+    "process": ""
   },
   {
     "partNo": "411990257",
@@ -384,7 +426,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990268",
@@ -393,7 +436,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990269",
@@ -402,7 +446,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990271",
@@ -411,7 +456,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990270",
@@ -420,7 +466,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990272",
@@ -429,7 +476,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990273",
@@ -438,7 +486,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990264",
@@ -447,7 +496,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990265",
@@ -456,7 +506,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990266",
@@ -465,7 +516,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990267",
@@ -474,7 +526,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020100",
@@ -483,7 +536,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990276",
@@ -492,7 +546,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990304",
@@ -501,7 +556,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990305",
@@ -510,7 +566,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990315",
@@ -519,7 +576,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990316",
@@ -528,7 +586,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020096",
@@ -537,7 +596,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990209",
@@ -546,7 +606,8 @@
     "stock": "0",
     "linkedStock": "58",
     "totalStock": "58",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010143",
@@ -555,7 +616,8 @@
     "stock": "0",
     "linkedStock": "15",
     "totalStock": "15",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990249",
@@ -564,7 +626,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010172",
@@ -573,7 +636,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010173",
@@ -582,7 +646,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010174",
@@ -591,7 +656,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010143",
@@ -600,7 +666,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990223",
@@ -609,7 +676,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990222",
@@ -618,7 +686,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990224",
@@ -627,7 +696,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990211",
@@ -636,7 +706,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990229",
@@ -645,7 +716,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990232",
@@ -654,7 +726,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010160",
@@ -663,7 +736,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010161",
@@ -672,7 +746,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990248",
@@ -681,7 +756,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010163",
@@ -690,7 +766,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010170",
@@ -699,7 +776,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010165",
@@ -708,7 +786,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010165",
@@ -717,7 +796,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010166",
@@ -726,7 +806,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010167",
@@ -735,7 +816,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990245",
@@ -744,7 +826,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990246",
@@ -753,7 +836,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990234",
@@ -762,7 +846,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990193",
@@ -771,7 +856,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990193",
@@ -780,7 +866,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010142",
@@ -789,7 +876,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010146",
@@ -798,7 +886,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010147",
@@ -807,7 +896,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010147",
@@ -816,7 +906,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050043",
@@ -825,7 +916,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050043",
@@ -834,7 +926,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050042",
@@ -843,7 +936,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050042",
@@ -852,7 +946,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010170",
@@ -861,7 +956,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990249",
@@ -870,7 +966,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990247",
@@ -879,7 +976,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010156",
@@ -888,7 +986,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010157",
@@ -897,7 +996,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411030038",
@@ -906,7 +1006,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020097",
@@ -915,7 +1016,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010155",
@@ -924,7 +1026,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990233",
@@ -933,7 +1036,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020093",
@@ -942,7 +1046,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050030",
@@ -951,7 +1056,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050049",
@@ -960,7 +1066,8 @@
     "stock": "0",
     "linkedStock": "42",
     "totalStock": "42",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050053",
@@ -969,7 +1076,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050054",
@@ -978,7 +1086,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050002",
@@ -987,7 +1096,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050051",
@@ -996,7 +1106,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020099",
@@ -1005,7 +1116,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010175",
@@ -1014,7 +1126,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010176",
@@ -1023,7 +1136,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990312",
@@ -1032,7 +1146,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010177",
@@ -1041,7 +1156,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020085",
@@ -1050,7 +1166,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990191",
@@ -1059,7 +1176,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010171",
@@ -1068,7 +1186,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010104",
@@ -1077,7 +1196,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050038",
@@ -1086,7 +1206,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411010148",
@@ -1095,7 +1216,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411020071",
@@ -1104,7 +1226,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050031",
@@ -1113,7 +1236,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050005",
@@ -1122,7 +1246,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990114",
@@ -1131,7 +1256,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990244",
@@ -1140,7 +1266,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990243",
@@ -1149,7 +1276,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411050039",
@@ -1158,7 +1286,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411990237",
@@ -1167,7 +1296,8 @@
     "stock": "0",
     "linkedStock": "",
     "totalStock": "0",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   },
   {
     "partNo": "411040019",
@@ -1176,6 +1306,7 @@
     "stock": "0",
     "linkedStock": "103",
     "totalStock": "103",
-    "backupStock": ""
+    "backupStock": "",
+    "process": ""
   }
 ]
