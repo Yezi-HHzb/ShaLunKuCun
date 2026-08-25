@@ -2,8 +2,8 @@ name: Daily Sync Feishu Data
 
 on:
   schedule:
-    # 每天 UTC 时间 18:00（北京时间凌晨2点）运行
-    - cron: '0 18 * * *'
+    # 每10分钟运行
+    - cron: '*/10 * * * *'
   workflow_dispatch:   # 允许手动触发
 
 jobs:
