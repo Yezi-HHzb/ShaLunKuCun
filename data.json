@@ -17,7 +17,7 @@
     "linkedStock": "",
     "totalStock": "11",
     "backupStock": "6",
-    "process": ""
+    "process": "30B新造外圈粗磨外径"
   },
   {
     "partNo": "411990320",
@@ -57,7 +57,7 @@
     "linkedStock": "",
     "totalStock": "14",
     "backupStock": "12",
-    "process": ""
+    "process": "30B新造内圈粗磨滚道"
   },
   {
     "partNo": "411990203",
@@ -77,7 +77,7 @@
     "linkedStock": "",
     "totalStock": "36",
     "backupStock": "30",
-    "process": ""
+    "process": "30B新造内圈粗磨挡边"
   },
   {
     "partNo": "411990236",
@@ -87,7 +87,7 @@
     "linkedStock": "",
     "totalStock": "2",
     "backupStock": "2",
-    "process": ""
+    "process": "30B大修内圈终磨滚道"
   },
   {
     "partNo": "411990207",
@@ -97,7 +97,7 @@
     "linkedStock": "",
     "totalStock": "3",
     "backupStock": "4",
-    "process": ""
+    "process": "26大修内圈终磨滚道"
   },
   {
     "partNo": "411990207",
@@ -117,7 +117,7 @@
     "linkedStock": "",
     "totalStock": "72",
     "backupStock": "80",
-    "process": ""
+    "process": "30B大修终磨两滚道"
   },
   {
     "partNo": "411990226",
@@ -127,7 +127,7 @@
     "linkedStock": "",
     "totalStock": "48",
     "backupStock": "",
-    "process": ""
+    "process": "30B大修内圈磨挡边"
   },
   {
     "partNo": "411990208",
@@ -177,7 +177,7 @@
     "linkedStock": "",
     "totalStock": "158",
     "backupStock": "120",
-    "process": ""
+    "process": "30B新造内圈粗磨内径"
   },
   {
     "partNo": "411990230",
@@ -187,7 +187,7 @@
     "linkedStock": "",
     "totalStock": "144",
     "backupStock": "180",
-    "process": ""
+    "process": "30B新造外圈粗磨两牙口"
   },
   {
     "partNo": "411050050",
@@ -217,7 +217,7 @@
     "linkedStock": "",
     "totalStock": "8",
     "backupStock": "14",
-    "process": ""
+    "process": "30B新造内圈粗磨边外径"
   },
   {
     "partNo": "411050019",
@@ -237,7 +237,7 @@
     "linkedStock": "",
     "totalStock": "130",
     "backupStock": "150",
-    "process": ""
+    "process": "30B新造外圈粗、细磨两滚道"
   },
   {
     "partNo": "411990235",
@@ -247,7 +247,7 @@
     "linkedStock": "",
     "totalStock": "50",
     "backupStock": "50",
-    "process": ""
+    "process": "新造353130B 滚柱磨加工"
   },
   {
     "partNo": "411990130",
@@ -257,7 +257,7 @@
     "linkedStock": "",
     "totalStock": "100",
     "backupStock": "50",
-    "process": ""
+    "process": "大修353130B 滚柱磨加工"
   },
   {
     "partNo": "411990227",
@@ -267,7 +267,7 @@
     "linkedStock": "",
     "totalStock": "100",
     "backupStock": "50",
-    "process": ""
+    "process": "大修353130B 滚柱磨加工"
   },
   {
     "partNo": "411020080",
@@ -277,7 +277,7 @@
     "linkedStock": "",
     "totalStock": "2",
     "backupStock": "5",
-    "process": ""
+    "process": "新造353130B 滚柱磨加工"
   },
   {
     "partNo": "411990306",
@@ -297,7 +297,7 @@
     "linkedStock": "",
     "totalStock": "60",
     "backupStock": "60",
-    "process": ""
+    "process": "新造353130B 滚柱磨加工"
   },
   {
     "partNo": "411990069",
@@ -317,7 +317,7 @@
     "linkedStock": "",
     "totalStock": "7",
     "backupStock": "",
-    "process": ""
+    "process": "30B新造外圈粗、终磨双端面"
   },
   {
     "partNo": "411990327",
@@ -397,7 +397,7 @@
     "linkedStock": "",
     "totalStock": "2",
     "backupStock": "4",
-    "process": ""
+    "process": "30B新造内圈粗磨双端面（小）"
   },
   {
     "partNo": "411990260",
@@ -407,7 +407,7 @@
     "linkedStock": "",
     "totalStock": "4",
     "backupStock": "4",
-    "process": ""
+    "process": "30B新造内圈粗磨双端面（大）"
   },
   {
     "partNo": "411990298",
@@ -417,7 +417,7 @@
     "linkedStock": "",
     "totalStock": "2",
     "backupStock": "4",
-    "process": ""
+    "process": "30B新造内圈终磨双端面"
   },
   {
     "partNo": "411990257",
@@ -537,7 +537,7 @@
     "linkedStock": "",
     "totalStock": "0",
     "backupStock": "",
-    "process": ""
+    "process": "新造滚柱磨加工线 导轮磨"
   },
   {
     "partNo": "411990276",
@@ -1137,7 +1137,7 @@
     "linkedStock": "",
     "totalStock": "0",
     "backupStock": "",
-    "process": ""
+    "process": "新造353130B 滚柱磨加工"
   },
   {
     "partNo": "411990312",
