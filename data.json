@@ -183,9 +183,9 @@
     "partNo": "411990230",
     "spec": "200*16*65 SA70HV60",
     "manufacturer": "双立",
-    "stock": "144",
+    "stock": "128",
     "linkedStock": "",
-    "totalStock": "144",
+    "totalStock": "128",
     "backupStock": "180",
     "process": "30B新造外圈粗磨两牙口"
   },
@@ -233,9 +233,9 @@
     "partNo": "411050037",
     "spec": "AT-165*59*65 SA70JV50",
     "manufacturer": "鲁信",
-    "stock": "130",
+    "stock": "120",
     "linkedStock": "",
-    "totalStock": "130",
+    "totalStock": "120",
     "backupStock": "150",
     "process": "30B新造外圈粗、细磨两滚道 30B大修外圈细磨两滚道 26大修外圈细磨两滚道"
   },
