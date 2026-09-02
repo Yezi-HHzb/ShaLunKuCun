@@ -15,7 +15,7 @@
     "manufacturer": "振宇",
     "stock": "8",
     "linkedStock": "",
-    "totalStock": "9",
+    "totalStock": "8",
     "backupStock": "6",
     "process": "30B新造外圈粗磨外径 30B大修外圈磨外径 26大修外圈磨外径"
   },
@@ -55,7 +55,7 @@
     "manufacturer": "飞宇",
     "stock": "13",
     "linkedStock": "",
-    "totalStock": "14",
+    "totalStock": "13",
     "backupStock": "12",
     "process": "30B新造内圈粗磨滚道"
   },
@@ -123,9 +123,9 @@
     "partNo": "411990226",
     "spec": "3-280*12*75 A/WA120JV60",
     "manufacturer": "飞宇",
-    "stock": "48",
+    "stock": "36",
     "linkedStock": "",
-    "totalStock": "48",
+    "totalStock": "36",
     "backupStock": "",
     "process": "30B大修内圈磨挡边 26大修内圈磨挡边"
   },
@@ -215,7 +215,7 @@
     "manufacturer": "双立",
     "stock": "6",
     "linkedStock": "",
-    "totalStock": "8",
+    "totalStock": "6",
     "backupStock": "14",
     "process": "30B新造内圈粗磨边外径"
   },
