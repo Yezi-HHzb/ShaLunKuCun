@@ -23,9 +23,9 @@
     "partNo": "411990320",
     "spec": "1-125*80*50 TCA70JV60",
     "manufacturer": "振宇",
-    "stock": "20",
+    "stock": "10",
     "linkedStock": "",
-    "totalStock": "30",
+    "totalStock": "10",
     "backupStock": "",
     "process": "新造30B内圈粗磨内径"
   },
@@ -53,9 +53,9 @@
     "partNo": "411990203",
     "spec": "600*49.5*305 A/WA70KV60",
     "manufacturer": "飞宇",
-    "stock": "13",
+    "stock": "12",
     "linkedStock": "",
-    "totalStock": "13",
+    "totalStock": "12",
     "backupStock": "12",
     "process": "30B新造内圈粗磨滚道"
   },
