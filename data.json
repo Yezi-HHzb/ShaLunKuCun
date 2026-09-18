@@ -293,9 +293,9 @@
     "partNo": "411990307",
     "spec": "6-166*77*80-6*12 GNA180KB 35M/S 倾角9°",
     "manufacturer": "沈南",
-    "stock": "30",
+    "stock": "60",
     "linkedStock": "",
-    "totalStock": "30",
+    "totalStock": "60",
     "backupStock": "60",
     "process": "新造353130B 滚柱磨加工 1.终磨球基面 大修353130B 滚柱磨加工 1.磨球基面"
   },
@@ -1133,9 +1133,9 @@
     "partNo": "411010176",
     "spec": "200*30*65.5 A80PR 35M/S",
     "manufacturer": "沈南",
-    "stock": "0",
+    "stock": "20",
     "linkedStock": "",
-    "totalStock": "0",
+    "totalStock": "20",
     "backupStock": "",
     "process": "新造353130B 滚柱磨加工 1.终磨球基面 压轮 大修353130B 滚柱磨加工 1.磨球基面"
   },
