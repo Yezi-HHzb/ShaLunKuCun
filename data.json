@@ -233,9 +233,9 @@
     "partNo": "411050037",
     "spec": "AT-165*59*65 SA70JV50",
     "manufacturer": "鲁信",
-    "stock": "60",
+    "stock": "160",
     "linkedStock": "",
-    "totalStock": "60",
+    "totalStock": "160",
     "backupStock": "150",
     "process": "30B新造外圈粗、细磨两滚道 30B大修外圈细磨两滚道 26大修外圈细磨两滚道"
   },
@@ -323,9 +323,9 @@
     "partNo": "411990327",
     "spec": "750*63*254 A80JB35",
     "manufacturer": "华菱",
-    "stock": "6",
+    "stock": "5",
     "linkedStock": "",
-    "totalStock": "6",
+    "totalStock": "5",
     "backupStock": "",
     "process": ""
   },
