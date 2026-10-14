@@ -13,9 +13,9 @@
     "partNo": "411990263",
     "spec": "600*170*305 TCA70KV60",
     "manufacturer": "振宇",
-    "stock": "11",
+    "stock": "10",
     "linkedStock": "",
-    "totalStock": "11",
+    "totalStock": "10",
     "backupStock": "6",
     "process": "30B新造外圈粗磨外径 30B大修外圈磨外径 26大修外圈磨外径"
   },
@@ -413,9 +413,9 @@
     "partNo": "411990298",
     "spec": "36-750*63*254 32A80JB35",
     "manufacturer": "联瑞",
-    "stock": "5",
+    "stock": "3",
     "linkedStock": "",
-    "totalStock": "5",
+    "totalStock": "3",
     "backupStock": "4",
     "process": "30B新造内圈终磨双端面"
   },
