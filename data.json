@@ -323,9 +323,9 @@
     "partNo": "411990327",
     "spec": "750*63*254 A80JB35",
     "manufacturer": "华菱",
-    "stock": "2",
+    "stock": "1",
     "linkedStock": "",
-    "totalStock": "2",
+    "totalStock": "1",
     "backupStock": "",
     "process": ""
   },
@@ -403,9 +403,9 @@
     "partNo": "411990260",
     "spec": "36-750*63*254 32A80KB35",
     "manufacturer": "联瑞",
-    "stock": "3",
+    "stock": "2",
     "linkedStock": "",
-    "totalStock": "3",
+    "totalStock": "2",
     "backupStock": "4",
     "process": "30B新造内圈粗磨双端面（大）"
   },
